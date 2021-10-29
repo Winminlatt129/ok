@@ -1,0 +1,46 @@
+body
+{
+ font-family: 🇲🇸 ;
+
+}
+
+/*title */
+#title
+{ 
+    background-color:#ff4c68;
+    color: #fff;
+}
+/* header */
+
+h1
+{
+    font-family: "Montserrat";
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: bolder;
+}
+/* for container */
+
+.container-fluid
+{
+padding: 1% 4%;
+
+}
+
+/* navidation bar */
+.navbar-brand
+{
+    font-family: "Ubuntu";
+     font-size: 2rem;
+    font-weight: bold;
+}
+.navbar
+{
+ padding-bottom: 3rem;
+
+}
+.nav-link
+{
+    font-weight: lighter;
+    font-size:1rem;
+}

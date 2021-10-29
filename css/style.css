@@ -1,0 +1,71 @@
+/**************TAG SELECTORS**************/
+body
+{
+    background-color:#CEE5D0 ;
+    font-size: 13pt;
+}
+hr
+{
+    border-style: none;
+    border-top-style: dotted;
+    border-color:grey;
+    border-width: 6px;
+    width: 6%;
+    margin-left: 30%;
+    margin-bottom:2%;
+} 
+h1,h2,h3 
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    margin-right: auto;
+    margin-left: 22%;
+    color: brown;
+
+    margin-bottom: 0.5em;
+
+    FONT-SIZE: 15pt;
+}
+img:hover
+{
+    background-color: #a7b8a9;
+}
+p
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    
+}  
+
+
+/**************ID SELECTORS**************/
+#ForLisa 
+{
+    margin-left: 20%;
+    font-weight: 700; 
+}
+
+#achieve
+{
+    margin-right: 10%;
+    margin-left: 23%;
+}
+#mainTable
+{
+ margin-left: 23%;
+ 
+}
+/**************CLASS SELECTORS**************/
+.p
+{
+ margin-left:22%;
+ margin-right:auto;
+
+}
+.a
+{
+ margin-left:24%;
+ margin-right:auto;
+
+}
+
+
+    
